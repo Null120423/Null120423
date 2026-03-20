@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HuuTai(Genny)</h1>
+<h1 align="center">Hi 👋, I'm Huu Tai</h1>
 
 
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK** & React Native & ReactJs & Java Spring boot,... & Nest Js
 
-- 👨‍💻 All of my projects are available at https://github.com/Tran-Huu-Tai-12-04-23
+- 👨‍💻 All of my projects are available at https://github.com/Null120423
 
 - 💬 Ask me about **WEB,MOBILE DEVELOPMENT**
 
